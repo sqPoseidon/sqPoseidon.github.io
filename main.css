@@ -19,12 +19,12 @@ div#main-container {
 
 div#header-container {
 	width: 100%;
-	height: 30px;
+	height: 8vh;
 }
 
 div#header {
 	width: 100vw;
-	height: 30px;
+	height: 8vh;
 	/* padding-bottom: 8px; */
 	background: #882b8e;
 	z-index: 1;
@@ -617,7 +617,7 @@ div#layout-menu-container .closebtn:hover {
 	}
 
 	.openbtn {
-	  font-size: 16px;
+	  font-size: 4vh;
 	  cursor: pointer;
 	  background: none;
 	  color: white;
